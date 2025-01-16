@@ -29,8 +29,8 @@ Ensure you have the following tools installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/khaledagn/go-http-proxy-server.git
-   cd go-http-proxy-server
+   git clone https://github.com/khaledagn/Go-HTTP-Proxy-Server-with-VPN-Sharing.git
+   cd Go-HTTP-Proxy-Server-with-VPN-Sharing
    ```
 
 2. Install Go dependencies:
@@ -144,7 +144,7 @@ For questions or support, please contact:
 - **Telegram**: https://t.me/khaledagn
 - **Instagram**: https://www.instagram.com/khaledagn
 - **Youtube**: https://www.youtube.com/KhaledAGN
-- **GitHub Issues**: [Create an Issue](https://github.com/khaledagn/go-http-proxy-server/issues)
+- **GitHub Issues**: [Create an Issue](https://github.com/khaledagn/Go-HTTP-Proxy-Server-with-VPN-Sharing/issues)
 
 ---
 
